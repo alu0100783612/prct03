@@ -3,3 +3,19 @@ Respuestas a las preguntas de la pr´actica 3
 1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
 
 Poder realizar modificaciones del contenido de la rama principal sin afectar a los ficheros principales y una vez comprobado que la modificación funciona unirlo con los ficheros principales 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 3.- ¿Cuál es la ventaja de reorganizar (rebase)?
+La ventaja de rebase es la de crear una nueva confirmación en la rama master con la información de la otra rama y así creamos una nueva confirmación sin perder la información guardada en la anterior confirmación de la rama master. 
