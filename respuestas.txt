@@ -1,8 +1,8 @@
-Respuestas a las preguntas de la pr´actica 3
+Respuestas a las preguntas de la práctica 3
 
-1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
+2.- ¿Qué es una reorganización (rebase)? Es meter todos los cambios que tenemos en la rama en la que estamos trabajando con la rama master y crea una nueva confirmación, diferencia de las demás como la ultima confirmación de la rama master con un prima. Esto no se debe hacer si se esta compartiendo repositorio. 
 
-Poder realizar modificaciones del contenido de la rama principal sin afectar a los ficheros principales y una vez comprobado que la modificación funciona unirlo con los ficheros principales 
+1.- ¿Cuál es el propósito de trabajar con mútliples ramas? Poder realizar modificaciones del contenido de la rama principal sin afectar a los ficheros principales y una vez comprobado que la modificación funciona unirlo con los ficheros principales.
 
 
 
@@ -19,3 +19,4 @@ Poder realizar modificaciones del contenido de la rama principal sin afectar a l
 
  3.- ¿Cuál es la ventaja de reorganizar (rebase)?
 La ventaja de rebase es la de crear una nueva confirmación en la rama master con la información de la otra rama y así creamos una nueva confirmación sin perder la información guardada en la anterior confirmación de la rama master. 
+
