@@ -1,1 +1,5 @@
 Respuestas a las preguntas de la pr´actica 3
+
+1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
+
+Poder realizar modificaciones del contenido de la rama principal sin afectar a los ficheros principales y una vez comprobado que la modificación funciona unirlo con los ficheros principales 
